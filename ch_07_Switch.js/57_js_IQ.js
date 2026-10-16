@@ -8,3 +8,5 @@ switch (status) {
         console.log("o matched");
         break;
 }
+
+// Switch uses (===) strict comparison
